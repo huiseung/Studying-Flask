@@ -15,7 +15,7 @@
 - http 요청을 디버깅할 수 있는 툴
 - pip install -U httpie
 - 플라스크 app을 실행시킨후 커맨드에 다음을 입력
-  - http -v 메소드 http://localhost:5000/엔드포인트_고유주소
+  - `http -v 메소드 http://localhost:5000/엔드포인트_고유주소`
 
 ## simple_API
 - simple_API.py
